@@ -1,5 +1,6 @@
 url: https://www.vnext.com.au
 baseurl: /
+header_background: img/header-bg-dark.jpg
 
 # Site settings
 title: VNEXT
