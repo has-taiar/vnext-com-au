@@ -1,0 +1,47 @@
+url: https://www.vnext.com.au
+baseurl: /
+
+# Site settings
+title: VNEXT
+email: hello@vnext.com.au
+description: "PASSIONATE TECHNOLOGISTS WITH A HUMAN-LED APPROACH. We are an innovative bunch of enginners, who thrive on solving problems. We are facinated by the human-ingeniunity and excited about the potential of AI. We are on a mission to use AI and our years of expertise to augment human capabilities and create a competitve edge for our customers"
+
+# Team names, titles and social links
+people:
+- name: Has Altaiar
+  pic: img/team/has.png
+  position: Practice Lead (Data & AI)
+  social:
+    - title: twitter
+      url: https://twitter.com/hasaltaiar
+    - title: linkedin
+      url: https://www.linkedin.com/in/altaiar/
+    - title: stack-overflow
+      url: https://stackoverflow.com/users/1570662/has-altaiar
+
+- name: Chris Melinn
+  pic: img/team/chris.jpg
+  position: Technical Director 
+  social:
+    - title: twitter
+      url: http://twitter.com/chrismelinn
+    - title: linkedin
+      url: https://www.linkedin.com/in/chris-melinn-9a2978/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/vnext_au
+  - title: facebook
+    url: http://facebook.com/vnext_au
+  - title: linkedin
+    url: https://www.linkedin.com/company/vnextau/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Collins St
+  - line: Melbourne, VIC 3000
+
+# Build settings
+markdown: kramdown
+permalink: pretty
