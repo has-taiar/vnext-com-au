@@ -659,8 +659,8 @@ aside.clients img {
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/{{ site.contact_background }}');
-    background-position: center;
-    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 section#contact .section-heading {
