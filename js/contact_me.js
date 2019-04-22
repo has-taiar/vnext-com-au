@@ -17,8 +17,9 @@ $(function () {
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
+            form_url = $('#contactForm').attr('action')
             $.ajax({
-                url: "{{ site.form_url }}",
+                url: form_url,
                 type: "POST",
                 data: {
                     name: name,
