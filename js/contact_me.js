@@ -68,14 +68,17 @@ $(function () {
 
 $(document).ready(function () {
     if (window.location.hash === "#contact_OK") {
-        $('#success').html("<div class='alert alert-success'>");
-        $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-            .append("</button>");
-        $('#success > .alert-success')
-            .append("<strong>Your message has been sent. You can also emails us directly on <a href=\"mailto:hello@vnext.com.au\">hello@vnext.com.au</a></strong>");
-        $('#success > .alert-success')
-            .append('</div>');
-        $('#success').focus();
+        $(document).ready(function () {
+            $('#success').html("<div class='alert alert-success'>");
+            $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                .append("</button>");
+            $('#success > .alert-success')
+                .append("<strong>Your message has been sent. You can also emails us directly on <a href=\"mailto:hello@vnext.com.au\">hello@vnext.com.au</a></strong>");
+            $('#success > .alert-success')
+                .append('</div>');
+            $('#success').focus();
+            console.log("Email sent successfully");
+        });
     }
 });
 
