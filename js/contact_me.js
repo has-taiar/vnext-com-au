@@ -76,7 +76,7 @@ $(document).ready(function () {
                 .append("<strong>Your message has been sent. You can also emails us directly on <a href=\"mailto:hello@vnext.com.au\">hello@vnext.com.au</a></strong>");
             $('#success > .alert-success')
                 .append('</div>');
-            $('#success').focus();
+            $(window).scrollTop($('#success').offset().top);
             console.log("Email sent successfully");
         });
     }
