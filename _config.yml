@@ -13,7 +13,7 @@ description: "PASSIONATE TECHNOLOGISTS WITH A HUMAN-LED APPROACH. We are an inno
 people:
 - name: Has Altaiar
   pic: img/team/has.jpg
-  position: Practice Lead (Data & AI)
+  position: Principal Consultant
   social:
     - title: twitter
       url: https://twitter.com/hasaltaiar
@@ -24,7 +24,7 @@ people:
 
 - name: Chris Melinn
   pic: img/team/chris.jpg
-  position: Technical Director 
+  position: Principal Consultant 
   social:
     - title: twitter
       url: http://twitter.com/chrismelinn
@@ -34,11 +34,11 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com  # http://twitter.com/vnext_au
+    url: http://twitter.com/vnext_au
   - title: facebook
-    url: http://facebook.com/ # vnext_au
+    url: http://facebook.com/vnext_au
   - title: linkedin
-    url: https://www.linkedin.com/ # company/vnextau/
+    url: https://www.linkedin.com/company/vnextau/
 
 # Postal address (add as many lines as necessary)
 address:
