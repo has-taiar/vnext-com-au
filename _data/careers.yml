@@ -1,0 +1,39 @@
+- display_name: Azure Engineer
+  generated_page_name: azure-engineer
+  active: true
+  long_desc: We are looking for a hands-on Azure engineer to join our team and help us deliver cutting-edge projects and drive real outcomes for our customers. Successful applicants will have the following skills and capabilities
+  keys:
+  - Solid understanding of cloud architecture, ideally demonstrated with Microsoft Azure.
+  - Solid understanding of SDLC and DevOps best practices including CI/CD and Infrastructure as Code. 
+  - Strong customer-facing skills to manage business and technical conversations. 
+  - Experience in at least two of the following languages C#, Python, and JavaScript  
+  - Passion for Data & AI projects. Previous experience with Data / ML projects is advantageous but not mandatory. 
+  - Previous consulting experience is highly desirable but not mandatory. 
+  - We value understanding, communication, passion, and aptitude for learning over years of experience. 
+  - Contract and permanent opportunities available
+  # maybe use something like this later?
+  tags:
+  - azure
+  - devops
+
+# -----------------------------------------
+# To add another, just add to collection,
+# For example:
+# -----------------------------------------
+
+# - display_name: AWS Engineer
+#   generated_page_name: aws-engineer
+#   active: true
+#   long_desc: We are looking for a hands-on AWS engineer to join our team and help us deliver cutting-edge projects and drive real outcomes for our customers. Successful applicants will have the following skills and capabilities
+#   keys:
+#   - Solid understanding of cloud architecture, ideally demonstrated with AWS.
+#   - Solid understanding of SDLC and DevOps best practices including CI/CD and Infrastructure as Code. 
+#   - Strong customer-facing skills to manage business and technical conversations. 
+#   - Experience in at least two of the following languages: C#, Python, and JavaScript 
+#   - Passion for Data & AI projects. Previous experience with Data / ML projects is advantageous but not mandatory. 
+#   - Previous consulting experience is highly desirable but not mandatory. 
+#   - We value understanding, communication, passion, and aptitude for learning over years of experience. 
+#   - Contract and permanent opportunities available
+# maybe use something like this later?
+#   - aws
+#   - devops
