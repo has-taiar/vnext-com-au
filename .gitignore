@@ -38,3 +38,6 @@ Icon
 .vs/VSWorkspaceState.json
 .vs/slnx.sqlite
 .vs/vnext-com-au/v16/.suo
+
+# Don't think we want to add this
+Gemfile.lock
